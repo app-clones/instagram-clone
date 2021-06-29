@@ -8812,7 +8812,7 @@ fsevents@^1.2.7:
     tailwindcss: "npm:@tailwindcss/postcss7-compat@^2.2.4"
     typescript: ^4.3.4
     web-vitals: ^2.0.1
-    ws: ^7.5.0
+    ws: ^7.5.1
   languageName: unknown
   linkType: soft
 
@@ -16675,9 +16675,9 @@ typescript@^4.3.4:
   languageName: node
   linkType: hard
 
-"ws@npm:^7.5.0":
-  version: 7.5.0
-  resolution: "ws@npm:7.5.0"
+"ws@npm:^7.5.1":
+  version: 7.5.1
+  resolution: "ws@npm:7.5.1"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -16686,7 +16686,7 @@ typescript@^4.3.4:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: f9ac36310e795995f13ac7abff9c3b104b2460864de7f0b6233d285f62c6929529e24f386ff87740c3646f818fefa014be587371aa9a5a6fffae2cd9d1e9e008
+  checksum: e56541a73cac1d5b4b5e81ddd7e9925e84e45abaab6f3ee5e088e0089b5518f862d8429897243e12482b118971ad8a9a75b1d4900769bce3877878a0a7470043
   languageName: node
   linkType: hard
 
