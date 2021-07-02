@@ -8828,7 +8828,7 @@ fsevents@^1.2.7:
     react-scripts: 4.0.3
     tailwindcss: "npm:@tailwindcss/postcss7-compat@^2.2.4"
     typescript: ^4.3.5
-    web-vitals: ^2.0.1
+    web-vitals: ^2.1.0
     ws: ^7.5.1
   languageName: unknown
   linkType: soft
@@ -16140,10 +16140,10 @@ typescript@^4.3.5:
   languageName: node
   linkType: hard
 
-"web-vitals@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "web-vitals@npm:2.0.1"
-  checksum: 9fd83a637e682ed553831d8a9134f1d6ab3fe7a20467397c716db4391b9f8f90f4b4bf36035623131a7178eb0adff66fc3690a7df79cf9751e2fe51434f5ee46
+"web-vitals@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "web-vitals@npm:2.1.0"
+  checksum: 0a588d5bf19d1fe44abe124617f1ec4acb345d6d2feeb78380a488184ba77d2a3e5c3ee6337e45fd92d1827729fd29e27afdbd955d3f0d1fa2decadd68994e1b
   languageName: node
   linkType: hard
 
