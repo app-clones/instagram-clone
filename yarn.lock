@@ -1666,9 +1666,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@craco/craco@npm:^6.1.2":
-  version: 6.1.2
-  resolution: "@craco/craco@npm:6.1.2"
+"@craco/craco@npm:^6.2.0":
+  version: 6.2.0
+  resolution: "@craco/craco@npm:6.2.0"
   dependencies:
     cross-spawn: ^7.0.0
     lodash: ^4.17.15
@@ -1678,7 +1678,7 @@ __metadata:
     react-scripts: ^4.0.0
   bin:
     craco: bin/craco.js
-  checksum: 946d0ea1f83d93c869c3e2d72cc0a3f3f4b099c6d85b03ad62ef7c6d3696505ae53745db84d4caf5c4ebe40e7e81a5009d9662f7aa9fceb832a38a81157e5f33
+  checksum: 53ec93dbf18e54219ee079bfeb19c2aa0b7f89df02f073739d984ffc13f1727fec4ffb90ddb5ad8b103cf7cb87e29193a9212a74f5648c8e2e76dc8655984e1e
   languageName: node
   linkType: hard
 
@@ -8820,7 +8820,7 @@ fsevents@^1.2.7:
   version: 0.0.0-use.local
   resolution: "instagram-clone@workspace:."
   dependencies:
-    "@craco/craco": ^6.1.2
+    "@craco/craco": ^6.2.0
     "@testing-library/jest-dom": ^5.14.1
     "@testing-library/react": ^12.0.0
     "@testing-library/user-event": 13.1.9
